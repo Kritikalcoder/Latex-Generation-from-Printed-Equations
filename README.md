@@ -12,4 +12,4 @@ Arguments: Input_image, Show_results flag, Output_file_name
 Step 5: The LaTeX code String is stored in the variable `equation_string`  
 
 Testing has been performed on Two Linux Machines & Two iOS Machines.  
-gDrive link to Input & Output Images: https://drive.google.com/open?id=1T8YYRMXilbIOef-427aXc56lSTDACf8_  
+gDrive link to Input & Output Images: https://drive.google.com/drive/folders/1T8YYRMXilbIOef-427aXc56lSTDACf8_?usp=sharing  
